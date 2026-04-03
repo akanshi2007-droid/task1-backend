@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1775185487900",
+    "title": "Phone",
+    "description": "Lost in canteen",
+    "type": "lost",
+    "createdAt": "2026-04-03T03:04:47.900Z"
+  },
+  {
+    "id": "1775185573642",
+    "title": "Phone",
+    "description": "Lost in canteen",
+    "type": "lost",
+    "createdAt": "2026-04-03T03:06:13.642Z"
+  },
+  {
+    "id": "1775185601827",
+    "title": "Laptop",
+    "description": "Lost in lab",
+    "type": "lost",
+    "createdAt": "2026-04-03T03:06:41.827Z"
+  }
+]
